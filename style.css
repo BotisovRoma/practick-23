@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    min-width: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
